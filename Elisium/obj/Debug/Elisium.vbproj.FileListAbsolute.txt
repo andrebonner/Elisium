@@ -1,0 +1,13 @@
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\bin\Debug\Elisium.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\bin\Debug\Elisium.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\bin\Debug\Elisium.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.frmMain.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.Resources.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.vbproj.GenerateResource.Cache
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Elisium\Elisium\obj\Debug\Elisium.frmListing.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Elisium\Elisium\obj\Debug\Elisium.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Elisium\Elisium\obj\Debug\Elisium.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Elisium\Elisium\obj\Debug\Elisium.pdb

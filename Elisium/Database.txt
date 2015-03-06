@@ -1,0 +1,18 @@
+Purchases
+id | Date | Supplier Ref | Invoice Amount | Amount Paid | Balance
+Production
+id | Finish Date | Work Order Cost | Quantity
+Sales
+id | Item | Cost | Quantity | Amount
+Stock
+id | Item | Quantity | 
+Ledger
+Vouchers
+id | Account No | Amount | Type
+PayRoll
+id | Salary | Employee | 
+Transaction
+id | Tranaction Name | Tranaction Type | Amount | Date
+Account Reports
+
+Multi-Reports
